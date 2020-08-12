@@ -1,6 +1,0 @@
-C:\Users\Admin\source\repos\EchoBot1\obj\Debug\netcoreapp3.1\PictureBot.csprojAssemblyReference.cache
-C:\Users\Admin\source\repos\EchoBot1\obj\Debug\netcoreapp3.1\PictureBot.AssemblyInfoInputs.cache
-C:\Users\Admin\source\repos\EchoBot1\obj\Debug\netcoreapp3.1\PictureBot.AssemblyInfo.cs
-C:\Users\Admin\source\repos\EchoBot1\obj\Debug\netcoreapp3.1\PictureBot.csproj.CoreCompileInputs.cache
-C:\Users\Admin\source\repos\EchoBot1\obj\Debug\netcoreapp3.1\PictureBot.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Admin\source\repos\EchoBot1\obj\Debug\netcoreapp3.1\PictureBot.MvcApplicationPartsAssemblyInfo.cache
